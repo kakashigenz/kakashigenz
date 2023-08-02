@@ -13,18 +13,18 @@
 ***
 
 <p align='center'>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenminhquang2406&theme=radical"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakashigenz&theme=radical"/>
 </p>
 
 ---
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenminhquang2406&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kakashigenz&show_icons=true&theme=radical"/>
 </p>
 
 **Top langs 🥇🥈🥉**
 ***
 
 <p align='center'>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenminhquang2406&theme=radical'/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakashigenz&theme=radical'/>
 </p>
